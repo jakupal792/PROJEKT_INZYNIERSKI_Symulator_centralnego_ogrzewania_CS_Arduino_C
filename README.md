@@ -1,3 +1,5 @@
+UWAGA! Kod Arduino (utworzony w języku C) znajduje się w pliku "Symulator_aplikacja_arduino.ino"!
+
 Niniejsza aplikacja została stworzona jako projekt inżynierski na kierunku Informatyka Przemysłowa.
 Celem pracy było przygotowanie desktopowej, graficznej aplikacji symulującej działanie układu centralnego ogrzewania, 
 wyposażonego w indywidualne, konwencjonalne źródło ciepła, spalające węgiel kamienny, umożliwiającej
@@ -15,3 +17,4 @@ symulowanego układu, poprzez pobieranie i wyświetlanie danych o jego stanie (t
 i ewentualnych awariach) oraz sterowaniu nim (doprowadzaniu temperatury w pokojach do wartości oczekiwanej
 przez użytkownika, poprzez uruchamianie i zatrzymywanie podajnika opału, wyliczanie masy opału koniecznej do zwiększenia 
 temperatury oraz wyznaczanie czasu poszczególnych cyklów pracy). 
+
